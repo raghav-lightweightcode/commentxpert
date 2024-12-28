@@ -1,7 +1,7 @@
 CommentXpert - private comment WordPress plugin
 ===========================================
 
-Contributors: [raghavchudasama](https://profiles.wordpress.org/raghavchudasama/)
+Contributors: [raghavchudasama](https://profiles.wordpress.org/raghavchudasama/)  
 Tags: comment, private comment, post comment, comment privacy, block comments  
 Requires at least: 4.4  
 Requires PHP: 5.4  
