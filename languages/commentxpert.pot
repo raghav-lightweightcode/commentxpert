@@ -1,0 +1,84 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CommentXpert\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-26 10:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: commentxpert"
+
+#. Description of the plugin
+msgid ""
+"Adds an option for users to mark comments as private, viewable only by "
+"admins and the comment author."
+msgstr ""
+
+#: commentxpert.php:64
+msgid "Allow site users to mark comments as private"
+msgstr ""
+
+#: commentxpert.php:139
+msgid "Approve"
+msgstr ""
+
+#: commentxpert.php:221
+msgid "Comment made private successfully."
+msgstr ""
+
+#: commentxpert.php:219
+msgid "Comment made public successfully."
+msgstr ""
+
+#. Name of the plugin
+#: commentxpert.php:15
+msgid "CommentXpert"
+msgstr ""
+
+#: commentxpert.php:14 commentxpert.php:53
+msgid "CommentXpert Settings"
+msgstr ""
+
+#: commentxpert.php:61
+msgid "Enable Private Comments"
+msgstr ""
+
+#: commentxpert.php:172
+msgid "Make Private"
+msgstr ""
+
+#: commentxpert.php:169
+msgid "Make Public"
+msgstr ""
+
+#: commentxpert.php:160
+msgid "Make this comment public"
+msgstr ""
+
+#: commentxpert.php:104
+msgid "Post this comment as private"
+msgstr ""
+
+#: commentxpert.php:137
+msgid "Private Comments Awaiting Approval"
+msgstr ""
+
+#. Author of the plugin
+msgid "Raghav Chudasama"
+msgstr ""
+
+#: commentxpert.php:89
+#, php-format
+msgid ""
+"To enable private comments, please enable the <strong>\"Users must be "
+"registered and logged in to comment\"</strong> option in the <a href=\"%s\">"
+"Discussion Settings</a>."
+msgstr ""

@@ -1,0 +1,84 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CommentXpert\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-26 10:35+0000\n"
+"PO-Revision-Date: 2024-10-26 10:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (China)\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: commentxpert"
+
+#. Description of the plugin
+msgid ""
+"Adds an option for users to mark comments as private, viewable only by "
+"admins and the comment author."
+msgstr "添加一个选项，让用户将评论标记为私人评论，只有管理员和评论作者才能查看。"
+
+#: commentxpert.php:64
+msgid "Allow site users to mark comments as private"
+msgstr "允许网站用户将评论标记为私人评论"
+
+#: commentxpert.php:139
+msgid "Approve"
+msgstr "批准"
+
+#: commentxpert.php:221
+msgid "Comment made private successfully."
+msgstr "评论已成功设为私密。"
+
+#: commentxpert.php:219
+msgid "Comment made public successfully."
+msgstr "评论公开成功。"
+
+#. Name of the plugin
+#: commentxpert.php:15
+msgid "CommentXpert"
+msgstr "CommentXpert"
+
+#: commentxpert.php:14 commentxpert.php:53
+msgid "CommentXpert Settings"
+msgstr "CommentXpert 设置"
+
+#: commentxpert.php:61
+msgid "Enable Private Comments"
+msgstr "启用私人评论"
+
+#: commentxpert.php:172
+msgid "Make Private"
+msgstr "设为私人"
+
+#: commentxpert.php:169
+msgid "Make Public"
+msgstr "公开"
+
+#: commentxpert.php:160
+msgid "Make this comment public"
+msgstr "公开此评论"
+
+#: commentxpert.php:104
+msgid "Post this comment as private"
+msgstr "将此评论发布为私人评论"
+
+#: commentxpert.php:137
+msgid "Private Comments Awaiting Approval"
+msgstr "私人评论正在等待批准"
+
+#. Author of the plugin
+msgid "Raghav Chudasama"
+msgstr "Raghav Chudasama"
+
+#: commentxpert.php:89
+#, php-format
+msgid ""
+"To enable private comments, please enable the <strong>\"Users must be "
+"registered and logged in to comment\"</strong> option in the <a href=\"%s\">"
+"Discussion Settings</a>."
+msgstr ""
+"要启用私人评论，请在<a href=\"%s\">讨论设置</a>中启用<strong>“用户必须注册并登录才能发表评论”</strong>选项。"

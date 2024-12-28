@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CommentXpert\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-26 10:35+0000\n"
+"PO-Revision-Date: 2024-10-26 10:42+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: commentxpert"
+
+#. Description of the plugin
+msgid ""
+"Adds an option for users to mark comments as private, viewable only by "
+"admins and the comment author."
+msgstr ""
+"يضيف خيارًا للمستخدمين لوضع علامة على التعليقات كخاصة، بحيث يمكن رؤيتها فقط "
+"من قبل المسؤولين ومؤلف التعليق."
+
+#: commentxpert.php:64
+msgid "Allow site users to mark comments as private"
+msgstr "السماح لمستخدمي الموقع بوضع علامة على التعليقات على أنها خاصة"
+
+#: commentxpert.php:139
+msgid "Approve"
+msgstr "يعتمد"
+
+#: commentxpert.php:221
+msgid "Comment made private successfully."
+msgstr "تم جعل التعليق خاصًا بنجاح."
+
+#: commentxpert.php:219
+msgid "Comment made public successfully."
+msgstr "تم نشر التعليق بنجاح."
+
+#. Name of the plugin
+#: commentxpert.php:15
+msgid "CommentXpert"
+msgstr "commentXpert"
+
+#: commentxpert.php:14 commentxpert.php:53
+msgid "CommentXpert Settings"
+msgstr "إعدادات CommentXpert"
+
+#: commentxpert.php:61
+msgid "Enable Private Comments"
+msgstr "تمكين التعليقات الخاصة"
+
+#: commentxpert.php:172
+msgid "Make Private"
+msgstr "جعل خاص"
+
+#: commentxpert.php:169
+msgid "Make Public"
+msgstr "جعلها عامة"
+
+#: commentxpert.php:160
+msgid "Make this comment public"
+msgstr "جعل هذا التعليق عامًا"
+
+#: commentxpert.php:104
+msgid "Post this comment as private"
+msgstr "نشر هذا التعليق كخاص"
+
+#: commentxpert.php:137
+msgid "Private Comments Awaiting Approval"
+msgstr "تعليقات خاصة في انتظار الموافقة"
+
+#. Author of the plugin
+msgid "Raghav Chudasama"
+msgstr "Raghav Chudasama"
+
+#: commentxpert.php:89
+#, php-format
+msgid ""
+"To enable private comments, please enable the <strong>\"Users must be "
+"registered and logged in to comment\"</strong> option in the <a href=\"%s\">"
+"Discussion Settings</a>."
+msgstr ""
+"لتفعيل التعليقات الخاصة، يرجى تفعيل خيار <strong>يجب على المستخدمين التسجيل "
+"وتسجيل الدخول للتعليق</strong> في <a href=\"%s\">إعدادات المناقشة</a>."
