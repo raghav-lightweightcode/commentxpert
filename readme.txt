@@ -5,8 +5,8 @@ Requires at least: 4.4
 Requires PHP: 5.4
 Tested up to: 6.7.1
 Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 Adds an option for users to mark comments as private, viewable only by admins and the comment author.
 
