@@ -1,4 +1,6 @@
-#CommentXpert - private comment WordPress plugin
+CommentXpert - private comment WordPress plugin
+===========================================
+
 Contributors: raghavchudasama
 Tags: comment, private comment, post comment, comment privacy, block comments
 Requires at least: 4.4
