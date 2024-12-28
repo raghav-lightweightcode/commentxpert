@@ -6,8 +6,8 @@ Version: 1.0
 Author: Raghav Chudasama
 Text Domain: commentxpert
 Domain Path: /languages
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 // Exit if accessed directly
